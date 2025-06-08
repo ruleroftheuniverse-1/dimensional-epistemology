@@ -29,9 +29,9 @@ Fractions are not just divisions; they are **structured mappings**. "15.623" is 
 
 III. Mapping > Measuring
 
-To measure is to compare against a fixed abstraction. To map is to *construct a relationship* between parts of your world. The hair stretched from nose to knuckle is not a ruler—it is a projected relationship. When you fold, bisect, or shadow, you are not measuring; you are *mapping*.
+To measure is to compare against a fixed abstraction. To map is to *construct a relationship* between parts of your world. A strand of hair used to span from knuckle to fingertip is not a ruler—it is a projected relationship. When you fold, bisect, or shadow, you are not measuring; you are *mapping*.
 
-Mapping is how projective geometry works. It is how decimal folds are made with paper, light, and three hands. It is how any ratio—even golden, even Fibonacci—can emerge from iteration and projection, not calculation.
+Mapping is how projective geometry works. It is how decimal folds are made with paper, light, and two hands. It is how any ratio—even golden, even Fibonacci—can emerge from iteration and projection, not calculation.
 
 ---
 
@@ -78,9 +78,8 @@ We will build a system of geometry and mathematics based on:
 * Power through understanding
 
 We will design printables, lessons, apps, workshops, and worlds.
-We will start with you, the reader, and your body.
-No tools needed.
-No permission required.
+We will begin with what you already have access to.
+No external authorization is required.
 
 This is the manifesto.
 
